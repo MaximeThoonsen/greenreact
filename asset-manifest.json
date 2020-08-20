@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/greenreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/greenreact/static/js/main.ecb3a3c5.chunk.js",
+    "main.js.map": "/greenreact/static/js/main.ecb3a3c5.chunk.js.map",
+    "runtime-main.js": "/greenreact/static/js/runtime-main.6bb02b74.js",
+    "runtime-main.js.map": "/greenreact/static/js/runtime-main.6bb02b74.js.map",
+    "static/js/2.361d8e2f.chunk.js": "/greenreact/static/js/2.361d8e2f.chunk.js",
+    "static/js/2.361d8e2f.chunk.js.map": "/greenreact/static/js/2.361d8e2f.chunk.js.map",
+    "index.html": "/greenreact/index.html",
+    "precache-manifest.70a30c1aad4a01531bc91b618d866ef0.js": "/greenreact/precache-manifest.70a30c1aad4a01531bc91b618d866ef0.js",
+    "service-worker.js": "/greenreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/greenreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.361d8e2f.chunk.js.LICENSE.txt": "/greenreact/static/js/2.361d8e2f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/greenreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb02b74.js",
+    "static/js/2.361d8e2f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ecb3a3c5.chunk.js"
+  ]
+}
