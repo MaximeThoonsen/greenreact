@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/greenreact/static/css/main.6930e2f8.chunk.css",
-    "main.js": "/greenreact/static/js/main.589b1d51.chunk.js",
-    "main.js.map": "/greenreact/static/js/main.589b1d51.chunk.js.map",
+    "main.js": "/greenreact/static/js/main.13e5bad0.chunk.js",
+    "main.js.map": "/greenreact/static/js/main.13e5bad0.chunk.js.map",
     "runtime-main.js": "/greenreact/static/js/runtime-main.6bb02b74.js",
     "runtime-main.js.map": "/greenreact/static/js/runtime-main.6bb02b74.js.map",
     "static/js/2.404a2f31.chunk.js": "/greenreact/static/js/2.404a2f31.chunk.js",
     "static/js/2.404a2f31.chunk.js.map": "/greenreact/static/js/2.404a2f31.chunk.js.map",
     "index.html": "/greenreact/index.html",
-    "precache-manifest.11cdce036df647344c47acea083dd51c.js": "/greenreact/precache-manifest.11cdce036df647344c47acea083dd51c.js",
+    "precache-manifest.04df3f8bb1dc752a92b7df3fbab33f3f.js": "/greenreact/precache-manifest.04df3f8bb1dc752a92b7df3fbab33f3f.js",
     "service-worker.js": "/greenreact/service-worker.js",
     "static/css/main.6930e2f8.chunk.css.map": "/greenreact/static/css/main.6930e2f8.chunk.css.map",
     "static/js/2.404a2f31.chunk.js.LICENSE.txt": "/greenreact/static/js/2.404a2f31.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.6bb02b74.js",
     "static/js/2.404a2f31.chunk.js",
     "static/css/main.6930e2f8.chunk.css",
-    "static/js/main.589b1d51.chunk.js"
+    "static/js/main.13e5bad0.chunk.js"
   ]
 }
