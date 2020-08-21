@@ -6,7 +6,7 @@ import plane2 from './plane2.jpg';
 import plane3 from './plane3.jpg';
 
 function displayGreenImage(imageSrc, altText) {
-  if (navigator.connection.type === 'cellular'){
+  if (navigator && navigator.connection && navigator.connection.type === 'cellular'){
     return <div className='photoText'>{altText}</div>
   }
 
