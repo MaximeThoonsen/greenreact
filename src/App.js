@@ -38,7 +38,7 @@ function App() {
 
         <p>
           A great story and by luck this website is optimized for cellular content.
-          On the cellular network this page weighs 861kB because we remove the images and with the WIFI this page weight 2.5 MB
+          On the cellular network this page weighs 861kB because we remove the images and with the WIFI this page weighs 2.5 MB
         </p>
       </header>
     </div>
