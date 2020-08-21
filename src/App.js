@@ -6,20 +6,12 @@ import plane2 from './plane2.jpg';
 import plane3 from './plane3.jpg';
 
 function displayGreenImage(imageSrc, altText) {
-
   if (navigator.connection.type === 'cellular'){
     return <div className='photoText'>{altText}</div>
   }
 
-
-  console.log(navigator)
-  console.log(navigator.connection)
-  console.log(navigator.connection.type)
-
   return <img src={imageSrc} className="App-logo" alt="logo" />
 }
-
-
 
 function App() {
   return (
@@ -28,15 +20,16 @@ function App() {
         {
           displayGreenImage(plane, 'Nice photo of a plane')
         }
+        <h1>Welcome on my Travel blog</h1>
         <p>
-            Travel is fun.Blablabla
+            Travel is fun. Blablabla
         </p>
         {
           displayGreenImage(plane2, 'One more photo of a nice plane')
         }
 
         <p>
-          This mojito was amazing. We found it in a bar..... blabla
+          This mojito was amazing. We found it in a bar on the beach..... Blabla
         </p>
 
         {
@@ -45,9 +38,8 @@ function App() {
 
         <p>
           A great story and by luck this website is optimized for cellular content.
-          On the cellular network this page weigth 861kB because we remove the images and with the WIFI this page weight 2.5 MB
+          On the cellular network this page weighs 861kB because we remove the images and with the WIFI this page weight 2.5 MB
         </p>
-
       </header>
     </div>
   );
